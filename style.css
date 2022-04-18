@@ -1,0 +1,38 @@
+*{
+padding: 10;
+margin: 10;
+}
+.navigation ul li{
+display: inline;
+padding: 12px;
+}
+
+.navigation ul li a{
+    color: #fff;
+}
+
+.navigation{
+    background-color: red;
+    padding: 10px;
+    margin: 0px;
+}
+.najmul{
+    text-align: center;
+    color: green;
+}
+.ipsum{
+    height: 45px;
+    width: 200px;
+    background-color: blue;
+}
+.ipsum h1{
+ color: red;
+ text-align: center;
+}
+.lop p{
+    margin: 10px;
+    color: red;
+}
+.lop{
+    background-color: pink;
+}
